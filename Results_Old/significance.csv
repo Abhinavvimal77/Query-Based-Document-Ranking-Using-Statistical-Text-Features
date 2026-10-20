@@ -1,0 +1,6 @@
+model,baseline,mean_AP_diff,p_value
+TF (overlap),TF-IDF cosine,-0.1163,0.0
+BM25,TF-IDF cosine,0.0108,0.4101
+QL-Dirichlet,TF-IDF cosine,-0.0053,0.0556
+LSA (200d),TF-IDF cosine,0.0454,0.0
+Hybrid BM25+LSA,TF-IDF cosine,0.0328,0.0

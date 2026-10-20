@@ -1,0 +1,40 @@
+QUERY 31: what size of end plate can be safely used to simulate two-dimensional
+flow conditions over a bluff cylindrical body of finite aspect ratio .
+  AP=0.001 | #rel=1 | best relevant ranks=[1276]
+  query terms=['size', 'end', 'plate', 'safe', 'use', 'simul', 'dimension', 'flow', 'condit', 'bluff', 'cylindr', 'bodi', 'finit', 'aspect', 'ratio'] | rel. docs sharing >=1 term=0%
+  top-1 retrieved (non-relevant?): 751 -> a note on the use of end plates to prevent three dimensional
+flow at the ends of bluff cylinders . a note on the use of end plates to prevent three di...
+
+QUERY 22: did anyone else discover that the turbulent skin friction is not over
+sensitive to the nature of the variation of the viscosity with
+temperature .
+  AP=0.002 | #rel=1 | best relevant ranks=[1329]
+  query terms=['did', 'discov', 'turbul', 'skin', 'friction', 'sensit', 'natur', 'variat', 'viscos', 'temperatur'] | rel. docs sharing >=1 term=0%
+  top-1 retrieved (non-relevant?): 125 -> measurements of skin friction of the compressible turbulent
+boundary layer on a cone with foreign gas injection . measurements of skin friction of the...
+
+QUERY 216: what investigations have been made of the wave system created by a
+static pressure distribution over a liquid surface .
+  AP=0.002 | #rel=1 | best relevant ranks=[444]
+  query terms=['investig', 'wave', 'creat', 'static', 'pressur', 'distribut', 'liquid', 'surfac'] | rel. docs sharing >=1 term=100%
+  top-1 retrieved (non-relevant?): 1225 -> the effect of adverse pressure gradients on the characteristics of
+turbulent boundary layers in supersonic streams . the effect of adverse pressure gr...
+
+QUERY 44: what are the details of the rigorous kinetic theory of gases .
+(chapman-enskog theory) .
+  AP=0.003 | #rel=3 | best relevant ranks=[786, 787, 990]
+  query terms=['detail', 'rigor', 'kinet', 'theori', 'gase', 'chapman', 'enskog', 'theori'] | rel. docs sharing >=1 term=0%
+  top-1 retrieved (non-relevant?): 1190 -> flow of a gas near a solid surface . flow of a gas near a solid surface .
+  the state of a gas near a solid surface is investigated .
+it is assumed th...
+
+QUERY 124: in what areas, other than low density wind tunnel flows, is viscous
+compressible flow in slender channels a problem .
+what analytical investigations have been made of the stability of
+conical shells . how do the results compare with experiment .
+  AP=0.004 | #rel=4 | best relevant ranks=[229, 527, 880, 1163]
+  query terms=['area', 'low', 'densiti', 'wind', 'tunnel', 'flow', 'viscou', 'compress', 'flow', 'slender', 'channel', 'problem', 'analyt', 'investig', 'stabil', 'conic', 'shell', 'result', 'compar', 'experi'] | rel. docs sharing >=1 term=100%
+  top-1 retrieved (non-relevant?): 941 -> viscous compressible and incompressible flow in slender
+channels . viscous compressible and incompressible flow in slender
+channels .
+  an analytical ...
